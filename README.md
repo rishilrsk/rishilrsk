@@ -2,10 +2,10 @@
 
 ### A passionate Full Stack Developer
 
-- 🔭 I'm currently working on **I'm currently working on implementing an end-to-end MERN stack project using the knowledge that I have.
+- 🔭 **I'm currently working on implementing an end-to-end MERN stack project using the knowledge that I have.
 **
 
-- 🌱 I'm currently learning **I'm currently learning the MERN Stack, Machine Learning, Artificial Intelligence, and UI/UX design to strengthen both my development and problem-solving skills.
+- 🌱 **I'm currently learning the MERN Stack, Machine Learning, Artificial Intelligence, and UI/UX design to strengthen both my development and problem-solving skills.
 **
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
