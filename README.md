@@ -2,16 +2,13 @@
 
 ### A passionate Full Stack Developer
 
-- 🔭 **I'm currently working on implementing an end-to-end MERN stack project using the knowledge that I have.
-**
+- 🔭 **I'm currently working on implementing an end-to-end MERN stack project using the knowledge that I have.**
 
-- 🌱 **I'm currently learning the MERN Stack, Machine Learning, Artificial Intelligence, and UI/UX design to strengthen both my development and problem-solving skills.
-**
+- 🌱 **I'm currently learning the MERN Stack, Machine Learning, Artificial Intelligence, and UI/UX design to strengthen both my development and problem-solving skills.**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
-- 🤝 I'm looking for help with **deepening my knowledge in MERN stack development and exploring practical ML/AI integrations.
-**
+- 🤝 I'm looking for help with **deepening my knowledge in MERN stack development and exploring practical ML/AI integrations.**
 
 - 💬 Ask me about **Web Development**
 
@@ -19,7 +16,7 @@
 
 - ⚡ Fun fact **My code works… until it doesn’t.**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1u5V8WaS-fMGeGClNKJfHhtkrsQ5rmA3K/view?usp=sharing](https://drive.google.com/file/d/1u5V8WaS-fMGeGClNKJfHhtkrsQ5rmA3K/view?usp=sharing)**
+- 📄 Resume **[Click Here](https://drive.google.com/file/d/1fSggBhNLyF8rXd3LXSRn9b2EsA5qPuuE/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
