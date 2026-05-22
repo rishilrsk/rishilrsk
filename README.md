@@ -1,31 +1,552 @@
-# Hi 👋, I'm Lakkoju Rishi Sivakesh
+<!-- ============================================================
+     GITHUB PROFILE README — Lakkoju Rishi Sivakesh
+     Designed for: Software Engineering Placements & Internships
+     Replace all [ ] placeholders with your real data
+     ============================================================ -->
 
-### A passionate Full Stack Developer
+<!-- ╔══════════════════════════════════════════════════╗
+     ║              HERO / ANIMATED BANNER              ║
+     ╚══════════════════════════════════════════════════╝ -->
 
-- 🔭 **I'm currently working on implementing an end-to-end MERN stack project using the knowledge that I have.**
+<div align="center">
 
-- 🌱 **I'm currently learning the MERN Stack, Machine Learning, Artificial Intelligence, and UI/UX design to strengthen both my development and problem-solving skills.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lakkoju%20Rishi%20Sivakesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20%7C%20MERN%20Stack&descAlignY=60&descSize=16&descColor=a78bfa" width="100%" />
 
-- 👯 I'm looking to collaborate on **Open Source Projects**
+<!-- ── Typing Animation ── -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=Building+scalable+backend+systems+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+Spring+Boot+%7C+REST+APIs;Open+Source+Contributor+%7C+DSA+Enthusiast;Turning+ideas+into+production-ready+code+%E2%9C%A8" alt="Typing SVG" />
+</a>
 
-- 🤝 I'm looking for help with **deepening my knowledge in MERN stack development and exploring practical ML/AI integrations.**
+<br/>
 
-- 💬 Ask me about **Web Development**
+<!-- ── Social Badges ── -->
+<a href="https://linkedin.com/in/rishisivakesh" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/rishilrsk" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://leetcode.com/rishisivakesh" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+<a href="mailto:lrishisivakesh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://drive.google.com/file/d/1fSggBhNLyF8rXd3LXSRn9b2EsA5qPuuE/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
+</a>
 
-- 📫 How to reach me **lrishisivakesh@gmail.com**
+<br/><br/>
 
-- ⚡ Fun fact **My code works… until it doesn’t.**
+<!-- ── Visitor Counter ── -->
+<img src="https://komarev.com/ghpvc/?username=rishilrsk&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="Profile Views"/>
 
-- 📄 Resume **[Click Here](https://drive.google.com/file/d/1fSggBhNLyF8rXd3LXSRn9b2EsA5qPuuE/view?usp=sharing)**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/rishilrsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="rishilrsk" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rishisivakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishisivakesh" height="30" width="40" /></a>
-<a href="https://leetcode.com/rishisivakesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rishisivakesh" height="30" width="40" /></a>
-</p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a></p>
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║                   ABOUT ME                       ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/> About Me
+
+```java
+/**
+ * @author  Lakkoju Rishi Sivakesh
+ * @role    Full Stack Developer — MERN | Java Backend | REST APIs
+ * @status  Actively seeking SWE internships & full-time roles (2025)
+ */
+public class RishiSivakesh {
+
+    String[]  expertise   = { "MERN Stack", "Java", "REST APIs", "System Design" };
+    String[]  currentFocus= { "Spring Boot", "Machine Learning", "UI/UX Design" };
+    String    location    = "India 🇮🇳";
+    String    email       = "lrishisivakesh@gmail.com";
+    boolean   openToWork  = true;
+
+    String funFact() {
+        return "My code works... until it doesn't. 😅";
+    }
+}
+```
+
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍💻 What I'm Up To
+
+- 🔭 **Building** an end-to-end MERN stack application from scratch
+- 🌱 **Learning** Spring Boot, Machine Learning, and AI integrations
+- 🤝 **Collaborating** on open-source projects
+- 💡 **Exploring** practical ML/AI integrations in web apps
+- 🎯 **Goal** — Land a high-impact software engineering role
+
+</td>
+<td width="45%">
+
+### ⚡ Quick Highlights
+
+| | |
+|---|---|
+| 🎓 | B.Tech — Computer Science |
+| 📍 | India |
+| 💼 | Open to SWE Internships |
+| 💬 | Ask me about Web Dev & DSA |
+| 🧩 | LeetCode active solver |
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║                TECH STACK                        ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,figma&theme=dark" />
+
+### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,mysql&theme=dark" />
+
+### 🔧 DevTools & Languages
+<img src="https://skillicons.dev/icons?i=git,github,dart,c,py&theme=dark" />
+
+### 📚 Libraries & Frameworks
+<img src="https://skillicons.dev/icons?i=numpy,flutter&theme=dark" />
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║          BACKEND / JAVA DEEP DIVE                ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## ☕ Java & Backend Engineering
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+**🏗️ Core Java**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-Principles-blue?style=flat-square)
+![Collections](https://img.shields.io/badge/Collections-Framework-green?style=flat-square)
+![Multithreading](https://img.shields.io/badge/Multithreading-Java-orange?style=flat-square)
+![Java 8+](https://img.shields.io/badge/Java%208+-Streams%20%7C%20Lambda-red?style=flat-square)
+
+</td>
+
+<td align="center" width="33%">
+
+**🌱 Spring Ecosystem** *(Learning)*
+
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST-APIs-blue?style=flat-square)
+![Spring MVC](https://img.shields.io/badge/Spring-MVC-green?style=flat-square)
+![Hibernate](https://img.shields.io/badge/Hibernate-JPA-orange?style=flat-square)
+
+</td>
+
+<td align="center" width="33%">
+
+**🗄️ Databases & APIs**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![REST](https://img.shields.io/badge/RESTful-Design-purple?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-API-yellow?style=flat-square)
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║              PROJECTS SHOWCASE                   ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 🚀 Featured Projects
+
+> 💡 *Replace the project names, links, and descriptions below with your actual projects*
+
+<div align="center">
+<table>
+<tr>
+
+<!-- PROJECT 1 — Replace with real project -->
+<td width="50%" valign="top">
+
+### 🛒 [E-Commerce Platform — MERN](https://github.com/rishilrsk/YOUR-REPO-NAME)
+<!-- Replace YOUR-REPO-NAME with your actual repo name -->
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+
+A full-stack e-commerce web application with **JWT authentication**, product catalog, cart management, and order processing. Built with the MERN stack following RESTful API principles.
+
+**Key Achievements:**
+- ✅ Implemented secure user auth with JWT & bcrypt
+- ✅ Designed normalized MongoDB schemas for scalability
+- ✅ Built RESTful APIs consumed by React frontend
+
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/YOUR-REPO-NAME)
+[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify)](https://your-live-demo-link.com)
+
+</td>
+
+<!-- PROJECT 2 — Replace with real project -->
+<td width="50%" valign="top">
+
+### 📋 [Task Manager — REST API](https://github.com/rishilrsk/YOUR-REPO-NAME-2)
+<!-- Replace YOUR-REPO-NAME-2 with your actual repo name -->
+
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+A RESTful task management API supporting CRUD operations, user authentication, priority filtering, and deadline tracking. Demonstrates clean API design and SQL schema modeling.
+
+**Key Achievements:**
+- ✅ Designed relational schema with foreign key constraints
+- ✅ Implemented pagination and filtering endpoints
+- ✅ Followed REST naming conventions & HTTP status standards
+
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/YOUR-REPO-NAME-2)
+
+</td>
+
+</tr>
+<tr>
+
+<!-- PROJECT 3 — Replace with real project -->
+<td width="50%" valign="top">
+
+### 🤖 [ML-Integrated Web App](https://github.com/rishilrsk/YOUR-REPO-NAME-3)
+<!-- Replace with actual project -->
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+A web application integrating a Machine Learning model with a React frontend, serving predictions via a Python-backed REST API. Bridges full-stack development with data science.
+
+**Key Achievements:**
+- ✅ Trained and serialized ML model with NumPy/Scikit-learn
+- ✅ Exposed predictions via REST API endpoint
+- ✅ Responsive React UI with real-time results
+
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/YOUR-REPO-NAME-3)
+
+</td>
+
+<!-- PROJECT 4 — Replace with real project -->
+<td width="50%" valign="top">
+
+### 🎨 [UI/UX Design System](https://github.com/rishilrsk/YOUR-REPO-NAME-4)
+<!-- Replace with actual project -->
+
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+
+A reusable component library and design system built with Tailwind CSS and React, designed in Figma. Focused on accessibility, dark mode support, and mobile responsiveness.
+
+**Key Achievements:**
+- ✅ Designed component specs in Figma before implementation
+- ✅ Built 10+ reusable accessible components
+- ✅ Documented with usage examples and props
+
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/YOUR-REPO-NAME-4)
+
+</td>
+
+</tr>
+</table>
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║          DSA / COMPETITIVE PROGRAMMING           ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 🧩 DSA & Problem Solving
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/rishisivakesh?theme=dark&font=source_code_pro&ext=heatmap)](https://leetcode.com/rishisivakesh)
+<!-- If the card doesn't render, use: https://leetcode-stats-six.vercel.app/?username=rishisivakesh&theme=dark -->
+
+</td>
+<td align="center" width="50%">
+
+### 🏆 DSA Topics Mastered
+
+| Topic | Proficiency |
+|-------|------------|
+| Arrays & Strings | ██████████ Expert |
+| Linked Lists | █████████░ Strong |
+| Trees & Graphs | ████████░░ Good |
+| Dynamic Programming | ███████░░░ Intermediate |
+| Searching & Sorting | ██████████ Expert |
+| Recursion & Backtracking | ████████░░ Good |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║               GITHUB STATS                       ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rishilrsk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" height="180" alt="GitHub Stats"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishilrsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishilrsk&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak"/>
+
+</div>
+
+<br/>
+
+<!-- ── Contribution Graph ── -->
+<div align="center">
+
+[![Rishi's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rishilrsk&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&area_color=2d1b6980)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║              GITHUB TROPHIES                     ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=rishilrsk&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║         CERTIFICATIONS & ACHIEVEMENTS            ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 🎓 Certifications & Achievements
+
+<!-- Replace with YOUR actual certifications and links -->
+
+<div align="center">
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
+
+**[MERN Stack Bootcamp](#)**
+*Udemy — 2024*
+
+</td>
+
+<td align="center" width="25%">
+
+![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+
+**[Java Programming](#)**
+*Coursera — 2024*
+
+</td>
+
+<td align="center" width="25%">
+
+![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+**[Problem Solving — Gold](#)**
+*HackerRank*
+
+</td>
+
+<td align="center" width="25%">
+
+![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**[UI/UX Fundamentals](#)**
+*Google — 2024*
+
+</td>
+
+</tr>
+</table>
+</div>
+
+> 💡 *Add `[Certificate Name](link-to-certificate)` for each real certification you have.*
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║           CURRENTLY LEARNING ROADMAP             ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 📈 Current Learning Roadmap
+
+```
+2025 Engineering Growth Path
+═══════════════════════════════════════════════════════════════
+
+  Q1 ██████████░░░░░░░░  Spring Boot & REST API Design
+  Q2 ████████░░░░░░░░░░  System Design Fundamentals
+  Q2 ██████░░░░░░░░░░░░  Machine Learning Foundations (NumPy, Pandas, Sklearn)
+  Q3 ████░░░░░░░░░░░░░░  Cloud Deployment (AWS / GCP basics)
+  Q3 ██░░░░░░░░░░░░░░░░  Docker & CI/CD Pipelines
+  Q4 ░░░░░░░░░░░░░░░░░░  Advanced DSA & Competitive Programming
+
+  Legend: ██ Done  ██ In Progress  ░░ Planned
+```
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║          COLLABORATION & OPEN SOURCE             ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 🤝 Let's Collaborate
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🌍 Open Source**
+
+I actively look for beginner-friendly and intermediate open source projects to contribute to. If you have a project in the MERN or Java ecosystem, let's connect!
+
+</td>
+<td align="center" width="33%">
+
+**💡 Hackathons**
+
+Looking for team members for hackathons? I bring full-stack skills and a fast-prototype mindset to the table.
+
+</td>
+<td align="center" width="33%">
+
+**📚 Study Groups**
+
+DSA grind, ML study sessions, or system design prep — I'm in. Let's learn in public together.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║               CONTACT SECTION                    ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+## 📬 Get In Touch
+
+<div align="center">
+
+| Platform | Link |
+|----------|------|
+| 📧 **Email** | [lrishisivakesh@gmail.com](mailto:lrishisivakesh@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/rishisivakesh](https://linkedin.com/in/rishisivakesh) |
+| 🐙 **GitHub** | [github.com/rishilrsk](https://github.com/rishilrsk) |
+| 🧩 **LeetCode** | [leetcode.com/rishisivakesh](https://leetcode.com/rishisivakesh) |
+| 📄 **Resume** | [View Resume →](https://drive.google.com/file/d/1fSggBhNLyF8rXd3LXSRn9b2EsA5qPuuE/view?usp=sharing) |
+
+<br/>
+
+> 💬 *I typically respond within 24 hours. Open to internship opportunities, freelance projects, and tech conversations.*
+
+</div>
+
+<br/>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════╗
+     ║                  FOOTER                          ║
+     ╚══════════════════════════════════════════════════╝ -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=a78bfa&animation=fadeIn&fontAlignY=65" width="100%"/>
+
+<sub>⭐ If you found something useful here, consider starring a repo or dropping a connection!</sub>
+
+<br/>
+
+**Made with ❤️ and ☕ by Rishi Sivakesh**
+
+</div>
 
 
