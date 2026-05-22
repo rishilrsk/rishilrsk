@@ -1,8 +1,3 @@
-<!-- ============================================================
-     GITHUB PROFILE README — Lakkoju Rishi Sivakesh
-     Designed for: Software Engineering Placements & Internships
-     Replace all [ ] placeholders with your real data
-     ============================================================ -->
 
 <!-- ╔══════════════════════════════════════════════════╗
      ║              HERO / ANIMATED BANNER              ║
@@ -10,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lakkoju%20Rishi%20Sivakesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20Backend%20%7C%20MERN%20Stack&descAlignY=60&descSize=16&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lakkoju%20Rishi%20Sivakesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%7C%20MERN%20Stack&descAlignY=60&descSize=16&descColor=a78bfa" width="100%" />
 
 <!-- ── Typing Animation ── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=Building+scalable+backend+systems+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+Spring+Boot+%7C+REST+APIs;Open+Source+Contributor+%7C+DSA+Enthusiast;Turning+ideas+into+production-ready+code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=Building+scalable+backend+systems+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+%7C+REST+APIs;DSA+Enthusiast;Turning+ideas+into+production-ready+code+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -32,15 +27,15 @@
 <a href="mailto:lrishisivakesh@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://drive.google.com/file/d/1fSggBhNLyF8rXd3LXSRn9b2EsA5qPuuE/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/file/d/1eV_xUJjuw1L6KO6eksFyumDpGldv4WbP/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
 </a>
 
 <br/><br/>
 
-<!-- ── Visitor Counter ── -->
+<!-- ── Visitor Counter ── 
 <img src="https://komarev.com/ghpvc/?username=rishilrsk&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS" alt="Profile Views"/>
-
+-->
 </div>
 
 <br/>
@@ -56,8 +51,7 @@
 ```java
 /**
  * @author  Lakkoju Rishi Sivakesh
- * @role    Full Stack Developer — MERN | Java Backend | REST APIs
- * @status  Actively seeking SWE internships & full-time roles (2025)
+ * @role    Full Stack Developer — MERN | Java 
  */
 public class RishiSivakesh {
 
@@ -120,7 +114,7 @@ public class RishiSivakesh {
 <img src="https://skillicons.dev/icons?i=nodejs,express,java,mongodb,mysql&theme=dark" />
 
 ### 🔧 DevTools & Languages
-<img src="https://skillicons.dev/icons?i=git,github,dart,c,py&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,c,py&theme=dark" />
 
 </div>
 
@@ -188,7 +182,6 @@ public class RishiSivakesh {
 
 ## 🚀 Featured Projects
 
-> 💡 *Replace the project names, links, and descriptions below with your actual projects*
 
 <div align="center">
 <table>
@@ -338,7 +331,7 @@ A machine learning web application that analyzes text sentiment in real-time. Bu
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**[Cloud Practitioner](#)**
+**[Cloud Practitioner](https://drive.google.com/file/d/17TB4g8ST2ggZfZM-7crxF7WfK2MBRTvj/view?usp=sharing)**
 *AWS — 2026*
 
 </td>
@@ -347,7 +340,7 @@ A machine learning web application that analyzes text sentiment in real-time. Bu
 
 ![NPTEL](https://img.shields.io/badge/NPTEL-273275?style=for-the-badge&logo=bookstack&logoColor=white)
 
-**[Java Programming](#)**
+**[Java Programming](https://drive.google.com/file/d/1RFhqNyIPA_uUziy_naOvEnBVeaaZg2Aa/view?usp=sharing)**
 *NPTEL — 2024*
 
 </td>
@@ -448,8 +441,6 @@ DSA grind, ML study sessions, or system design prep — I'm in. Let's learn in p
 <sub>⭐ If you found something useful here, consider starring a repo or dropping a connection!</sub>
 
 <br/>
-
-**Made with ❤️ and ☕ by Rishi Sivakesh**
 
 </div>
 
