@@ -62,7 +62,7 @@
 public class RishiSivakesh {
 
     String[]  expertise   = { "MERN Stack", "Java", "REST APIs", "System Design" };
-    String[]  currentFocus= { "Spring Boot", "Machine Learning", "UI/UX Design" };
+    String[]  currentFocus= { "Spring Boot", "UI/UX Design" };
     String    location    = "India 🇮🇳";
     String    email       = "lrishisivakesh@gmail.com";
     boolean   openToWork  = true;
@@ -80,7 +80,7 @@ public class RishiSivakesh {
 ### 👨‍💻 What I'm Up To
 
 - 🔭 **Building** an end-to-end MERN stack application from scratch
-- 🌱 **Learning** Spring Boot, Machine Learning, and AI integrations
+- 🌱 **Learning** Spring Boot and UI/UX.
 - 🤝 **Collaborating** on open-source projects
 - 💡 **Exploring** practical ML/AI integrations in web apps
 - 🎯 **Goal** — Land a high-impact software engineering role
@@ -94,9 +94,8 @@ public class RishiSivakesh {
 |---|---|
 | 🎓 | B.Tech — Computer Science |
 | 📍 | India |
-| 💼 | Open to SWE Internships |
-| 💬 | Ask me about Web Dev & DSA |
-| 🧩 | LeetCode active solver |
+| 💼 | Open to Work |
+| 💬 | Ask me about Web Dev |
 
 </td>
 </tr>
@@ -123,9 +122,6 @@ public class RishiSivakesh {
 ### 🔧 DevTools & Languages
 <img src="https://skillicons.dev/icons?i=git,github,dart,c,py&theme=dark" />
 
-### 📚 Libraries & Frameworks
-<img src="https://skillicons.dev/icons?i=numpy,flutter&theme=dark" />
-
 </div>
 
 <br/>
@@ -135,7 +131,7 @@ public class RishiSivakesh {
 <!-- ╔══════════════════════════════════════════════════╗
      ║          BACKEND / JAVA DEEP DIVE                ║
      ╚══════════════════════════════════════════════════╝ -->
-
+<!--
 ## ☕ Java & Backend Engineering
 
 <div align="center">
@@ -185,7 +181,7 @@ public class RishiSivakesh {
 <br/>
 
 ---
-
+-->
 <!-- ╔══════════════════════════════════════════════════╗
      ║              PROJECTS SHOWCASE                   ║
      ╚══════════════════════════════════════════════════╝ -->
@@ -201,89 +197,43 @@ public class RishiSivakesh {
 <!-- PROJECT 1 — Replace with real project -->
 <td width="50%" valign="top">
 
-### 🛒 [E-Commerce Platform — MERN](https://github.com/rishilrsk/YOUR-REPO-NAME)
-<!-- Replace YOUR-REPO-NAME with your actual repo name -->
+### 📋 [Task Manager — REST API](https://github.com/rishilrsk/Task-Management)
 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-A full-stack e-commerce web application with **JWT authentication**, product catalog, cart management, and order processing. Built with the MERN stack following RESTful API principles.
-
-**Key Achievements:**
-- ✅ Implemented secure user auth with JWT & bcrypt
-- ✅ Designed normalized MongoDB schemas for scalability
-- ✅ Built RESTful APIs consumed by React frontend
-
-[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/YOUR-REPO-NAME)
-[![Live](https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify)](https://your-live-demo-link.com)
-
-</td>
-
-<!-- PROJECT 2 — Replace with real project -->
-<td width="50%" valign="top">
-
-### 📋 [Task Manager — REST API](https://github.com/rishilrsk/YOUR-REPO-NAME-2)
-<!-- Replace YOUR-REPO-NAME-2 with your actual repo name -->
-
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-A RESTful task management API supporting CRUD operations, user authentication, priority filtering, and deadline tracking. Demonstrates clean API design and SQL schema modeling.
+A RESTful task management API supporting CRUD operations, secure user authentication, and data tracking. Built using Node.js and MongoDB for fast and reliable backend performance.
 
 **Key Achievements:**
-- ✅ Designed relational schema with foreign key constraints
-- ✅ Implemented pagination and filtering endpoints
-- ✅ Followed REST naming conventions & HTTP status standards
+- ✅ Designed secure database schemas using MongoDB
+- ✅ Implemented RESTful endpoints and data filtering
+- ✅ Integrated secure authentication workflows 
 
-[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/YOUR-REPO-NAME-2)
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/Task-Management)
 
 </td>
 
 </tr>
 <tr>
 
-<!-- PROJECT 3 — Replace with real project -->
 <td width="50%" valign="top">
 
-### 🤖 [ML-Integrated Web App](https://github.com/rishilrsk/YOUR-REPO-NAME-3)
-<!-- Replace with actual project -->
+### 🤖 [Real-Time Sentiment Analysis](https://github.com/rishilrsk/Sentiment-Analysis)
+<!-- Update the repository link above if your exact repo name is different -->
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-A web application integrating a Machine Learning model with a React frontend, serving predictions via a Python-backed REST API. Bridges full-stack development with data science.
+A machine learning web application that analyzes text sentiment in real-time. Built using a Support Vector Machine (SVM) model in Python and connected to a clean React frontend.
 
 **Key Achievements:**
-- ✅ Trained and serialized ML model with NumPy/Scikit-learn
-- ✅ Exposed predictions via REST API endpoint
-- ✅ Responsive React UI with real-time results
+- ✅ Trained an SVM machine learning model reaching over 80% accuracy
+- ✅ Exposed model predictions through a fast backend API
+- ✅ Built a responsive React UI to display real-time analysis results
 
-[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/YOUR-REPO-NAME-3)
-
-</td>
-
-<!-- PROJECT 4 — Replace with real project -->
-<td width="50%" valign="top">
-
-### 🎨 [UI/UX Design System](https://github.com/rishilrsk/YOUR-REPO-NAME-4)
-<!-- Replace with actual project -->
-
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-A reusable component library and design system built with Tailwind CSS and React, designed in Figma. Focused on accessibility, dark mode support, and mobile responsiveness.
-
-**Key Achievements:**
-- ✅ Designed component specs in Figma before implementation
-- ✅ Built 10+ reusable accessible components
-- ✅ Documented with usage examples and props
-
-[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/YOUR-REPO-NAME-4)
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/Sentiment-Analysis)
 
 </td>
 
@@ -313,20 +263,7 @@ A reusable component library and design system built with Tailwind CSS and React
 <!-- If the card doesn't render, use: https://leetcode-stats-six.vercel.app/?username=rishisivakesh&theme=dark -->
 
 </td>
-<td align="center" width="50%">
 
-### 🏆 DSA Topics Mastered
-
-| Topic | Proficiency |
-|-------|------------|
-| Arrays & Strings | ██████████ Expert |
-| Linked Lists | █████████░ Strong |
-| Trees & Graphs | ████████░░ Good |
-| Dynamic Programming | ███████░░░ Intermediate |
-| Searching & Sorting | ██████████ Expert |
-| Recursion & Backtracking | ████████░░ Good |
-
-</td>
 </tr>
 </table>
 
@@ -397,44 +334,27 @@ A reusable component library and design system built with Tailwind CSS and React
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td align="center" width="50%">
 
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-**[MERN Stack Bootcamp](#)**
-*Udemy — 2024*
+**[Cloud Practitioner](#)**
+*AWS — 2026*
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="50%">
 
-![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
+![NPTEL](https://img.shields.io/badge/NPTEL-273275?style=for-the-badge&logo=bookstack&logoColor=white)
 
 **[Java Programming](#)**
-*Coursera — 2024*
-
-</td>
-
-<td align="center" width="25%">
-
-![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-**[Problem Solving — Gold](#)**
-*HackerRank*
-
-</td>
-
-<td align="center" width="25%">
-
-![Google](https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-**[UI/UX Fundamentals](#)**
-*Google — 2024*
+*NPTEL — 2024*
 
 </td>
 
 </tr>
 </table>
+</div>
 </div>
 
 > 💡 *Add `[Certificate Name](link-to-certificate)` for each real certification you have.*
@@ -447,23 +367,7 @@ A reusable component library and design system built with Tailwind CSS and React
      ║           CURRENTLY LEARNING ROADMAP             ║
      ╚══════════════════════════════════════════════════╝ -->
 
-## 📈 Current Learning Roadmap
 
-```
-2025 Engineering Growth Path
-═══════════════════════════════════════════════════════════════
-
-  Q1 ██████████░░░░░░░░  Spring Boot & REST API Design
-  Q2 ████████░░░░░░░░░░  System Design Fundamentals
-  Q2 ██████░░░░░░░░░░░░  Machine Learning Foundations (NumPy, Pandas, Sklearn)
-  Q3 ████░░░░░░░░░░░░░░  Cloud Deployment (AWS / GCP basics)
-  Q3 ██░░░░░░░░░░░░░░░░  Docker & CI/CD Pipelines
-  Q4 ░░░░░░░░░░░░░░░░░░  Advanced DSA & Competitive Programming
-
-  Legend: ██ Done  ██ In Progress  ░░ Planned
-```
-
-<br/>
 
 ---
 
