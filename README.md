@@ -217,7 +217,6 @@ A RESTful task management API supporting CRUD operations, secure user authentica
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 
 A machine learning web application that analyzes text sentiment in real-time. Built using a Support Vector Machine (SVM) model in Python and connected to a clean React frontend.
 
