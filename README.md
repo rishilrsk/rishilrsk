@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lakkoju%20Rishi%20Sivakesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%7C%20MERN%20Stack&descAlignY=60&descSize=16&descColor=a78bfa" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Lakkoju%20Rishi%20Sivakesh&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20%MERN%20Stack&descAlignY=60&descSize=16&descColor=a78bfa" width="100%" />
 
 <!-- ── Typing Animation ── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=Building+scalable+backend+systems+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+%7C+REST+APIs;DSA+Enthusiast;Turning+ideas+into+production-ready+code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=Building+scalable+backend+systems+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+REST+APIs;DSA+Enthusiast;Turning+ideas+into+production-ready+code+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -350,7 +350,6 @@ A machine learning web application that analyzes text sentiment in real-time. Bu
 </div>
 </div>
 
-> 💡 *Add `[Certificate Name](link-to-certificate)` for each real certification you have.*
 
 <br/>
 
