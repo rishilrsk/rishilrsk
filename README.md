@@ -212,7 +212,7 @@ A RESTful task management API supporting CRUD operations, secure user authentica
 
 <td width="50%" valign="top">
 
-### 🤖 [Real-Time Sentiment Analysis](https://github.com/rishilrsk/Sentiment_Analysis)
+### 🤖 [Real-Time Sentiment Analysis](https://github.com/rishilrsk/Sentimental_Analysis)
 <!-- Update the repository link above if your exact repo name is different -->
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
