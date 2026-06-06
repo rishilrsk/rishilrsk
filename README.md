@@ -9,7 +9,7 @@
 
 <!-- ── Typing Animation ── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=Building+scalable+backend+systems+%F0%9F%9A%80;MERN+Stack+%7C+Java+%7C+REST+APIs;DSA+Enthusiast;Turning+ideas+into+production-ready+code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&random=false&width=600&height=60&lines=Building+backend+systems;MERN+Stack+%7C+Java+%7C+REST+APIs;DSA+Enthusiast;Turning+ideas+into+code+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -272,21 +272,24 @@ A machine learning web application that analyzes text sentiment in real-time. Bu
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<!--
 <img src="https://github-readme-stats.vercel.app/api?username=rishilrsk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&ring_color=a78bfa" height="180" alt="GitHub Stats"/>
-
+-->
+<!--     
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishilrsk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff&langs_count=8" height="180" alt="Top Languages"/>
-
+-->
+<!--
 </div>
-
+-->
+<!--
 <div align="center">
-
+--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishilrsk&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=a78bfa&sideLabels=a78bfa&dates=888888" alt="GitHub Streak"/>
-
+--
 </div>
-
+--
 <br/>
-
+-->
 <!-- ── Contribution Graph ── -->
 <div align="center">
 
