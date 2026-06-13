@@ -208,6 +208,31 @@ A RESTful task management API supporting CRUD operations, secure user authentica
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔗 [URL Shortener — MERN Stack](https://github.com/rishilrsk/URL-Shortener)
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+A modern full-stack application that converts long URLs into short, shareable links with automatic QR code generation. Features a sleek glassmorphic UI, real-time analytics tracking, and cryptographically secure ID generation.
+
+**Key Achievements:**
+- ✅ Built responsive frontend using React 19 and Vite with Tailwind CSS
+- ✅ Developed Express backend with MongoDB for instant URL shortening and redirection
+- ✅ Implemented QR code generation and download functionality with click analytics
+
+[![Repo](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github)](https://github.com/rishilrsk/URL-Shortener)
+
+</td>
+
+</tr>
+
+
 <tr>
 
 <td width="50%" valign="top">
